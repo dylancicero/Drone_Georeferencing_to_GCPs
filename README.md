@@ -1,6 +1,6 @@
 # An Automated Process for Georeferencing Drone Imagery to Ground Control Points
 
-An ArcPy script which georeferences drone imagery to ground control points based on an 
+This project presents an ArcPy script which georeferences drone imagery to ground control points based on an 
 unsupervised classification technique and other spatial data processing.
 
 ![tooldemo](https://user-images.githubusercontent.com/43111524/50660810-0cad9600-0f6f-11e9-8df0-7a80c6b836ea.png)
