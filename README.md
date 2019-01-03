@@ -4,7 +4,7 @@ An ArcPy script which georeferences drone imagery to ground control points based
 unsupervised classification technique and other spatial data processing.
 
 ![tooldemo](https://user-images.githubusercontent.com/43111524/50660810-0cad9600-0f6f-11e9-8df0-7a80c6b836ea.png)
-*(See pdf in repo to enlarge demo)*
+*(See pdf in repo to download and enlarge demo)*
 
 
 ## Getting Started
