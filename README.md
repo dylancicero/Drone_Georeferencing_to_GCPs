@@ -20,6 +20,7 @@ or right-click on My Toolboxes and use New > Toolbox to create (then rename) a n
 6.   In the next dialog box, specify the following inputs (using dropdown menus wherever possible)
 before pressing OK or Finish.
 
+'''
 DISPLAY NAME                    DATA TYPE           DIRECTION    DEFAULT
 Input Band 1                         Raster Layer         Input
 Input Band 2                         Raster Layer         Input
@@ -29,7 +30,7 @@ Target Control Points            Feature Layer        Input
 Target Longitude Field          Field                      Input
 Target Latitude Field             Field                      Input
 Output Grid                          Raster Dataset      Output
-
+'''
 
 ## Running
 
