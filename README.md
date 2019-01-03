@@ -5,7 +5,7 @@ unsupervised classification technique and other spatial data processing.
 
 **See pdf in repository for visual demonstration of the tool**
 
-![alt text](https://raw.githubusercontent.com/dylancicero/Drone_Georeferencing_to_GCPs/edit/master/tooldemo.png)
+![alt text](https://raw.githubusercontent.com/dylancicero/Drone_Georeferencing_to_GCPs/blob/master/ToolDemo.png)
 
 ## Getting Started
 
